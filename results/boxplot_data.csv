@@ -1,0 +1,201 @@
+metric,method,run,value
+Viewpoint count,A,1,109.923512212541
+Viewpoint count,A,2,112.734464315259
+Viewpoint count,A,3,112.951972926945
+Viewpoint count,A,4,111.674780504758
+Viewpoint count,A,5,109.00781180677
+Viewpoint count,A,6,109.953571936627
+Viewpoint count,A,7,108.405105045665
+Viewpoint count,A,8,112.834777178292
+Viewpoint count,A,9,111.353203257235
+Viewpoint count,A,10,112.510359871355
+Viewpoint count,B,1,92.0425002011403
+Viewpoint count,B,2,104.221948185003
+Viewpoint count,B,3,104.0846112459
+Viewpoint count,B,4,94.3808332486038
+Viewpoint count,B,5,89.4469932246968
+Viewpoint count,B,6,91.5954705986638
+Viewpoint count,B,7,95.0708466319882
+Viewpoint count,B,8,94.7022469477047
+Viewpoint count,B,9,91.6949449276983
+Viewpoint count,B,10,96.5297545753449
+Viewpoint count,C,1,141.727537233676
+Viewpoint count,C,2,134.745161416921
+Viewpoint count,C,3,142.720777364295
+Viewpoint count,C,4,144.48170515287
+Viewpoint count,C,5,153.003065510712
+Viewpoint count,C,6,138.58936561351
+Viewpoint count,C,7,145.734400122014
+Viewpoint count,C,8,147.190438335502
+Viewpoint count,C,9,127.932259524656
+Viewpoint count,C,10,148.231818244395
+Viewpoint count,D,1,29
+Viewpoint count,D,2,29
+Viewpoint count,D,3,29
+Viewpoint count,D,4,29
+Viewpoint count,D,5,29
+Viewpoint count,D,6,29
+Viewpoint count,D,7,29
+Viewpoint count,D,8,29
+Viewpoint count,D,9,29
+Viewpoint count,D,10,29
+Path length (m),A,1,368.969753839234
+Path length (m),A,2,373.078940462869
+Path length (m),A,3,391.311521592427
+Path length (m),A,4,385.203994338471
+Path length (m),A,5,380.575570823383
+Path length (m),A,6,374.16268303173
+Path length (m),A,7,369.624808630961
+Path length (m),A,8,377.789300781682
+Path length (m),A,9,373.738742523466
+Path length (m),A,10,366.654660315801
+Path length (m),B,1,348.410367266274
+Path length (m),B,2,340.943475033348
+Path length (m),B,3,358.245172113858
+Path length (m),B,4,344.561997129869
+Path length (m),B,5,354.381751965017
+Path length (m),B,6,343.987798371502
+Path length (m),B,7,348.955911169874
+Path length (m),B,8,349.948969009494
+Path length (m),B,9,345.806560660408
+Path length (m),B,10,367.268587638605
+Path length (m),C,1,345.244390818315
+Path length (m),C,2,349.519733111099
+Path length (m),C,3,359.253500932678
+Path length (m),C,4,340.787322165838
+Path length (m),C,5,347.889436576139
+Path length (m),C,6,321.784275492202
+Path length (m),C,7,326.249202719191
+Path length (m),C,8,307.775448435881
+Path length (m),C,9,327.931000035492
+Path length (m),C,10,331.729027776475
+Path length (m),D,1,202.3
+Path length (m),D,2,202.3
+Path length (m),D,3,202.3
+Path length (m),D,4,202.3
+Path length (m),D,5,202.3
+Path length (m),D,6,202.3
+Path length (m),D,7,202.3
+Path length (m),D,8,202.3
+Path length (m),D,9,202.3
+Path length (m),D,10,202.3
+Turning angle (deg),A,1,3553.61477364541
+Turning angle (deg),A,2,3621.18669437621
+Turning angle (deg),A,3,3549.35272389514
+Turning angle (deg),A,4,3552.805557164
+Turning angle (deg),A,5,3584.0761970362
+Turning angle (deg),A,6,3549.48876284616
+Turning angle (deg),A,7,3600.96564660282
+Turning angle (deg),A,8,3567.81633070192
+Turning angle (deg),A,9,3630.53630599235
+Turning angle (deg),A,10,3607.54732790846
+Turning angle (deg),B,1,3692.63683253102
+Turning angle (deg),B,2,3824.97187043277
+Turning angle (deg),B,3,3840.04896165562
+Turning angle (deg),B,4,3836.73031111504
+Turning angle (deg),B,5,3557.47372758378
+Turning angle (deg),B,6,3710.00663339247
+Turning angle (deg),B,7,3581.3179943503
+Turning angle (deg),B,8,3901.1375451476
+Turning angle (deg),B,9,3786.07815888337
+Turning angle (deg),B,10,3732.70928200439
+Turning angle (deg),C,1,3524.86242806706
+Turning angle (deg),C,2,3540.15973055008
+Turning angle (deg),C,3,3542.06129128545
+Turning angle (deg),C,4,3591.01836265136
+Turning angle (deg),C,5,3575.02726558378
+Turning angle (deg),C,6,3607.91251841742
+Turning angle (deg),C,7,3561.64432085973
+Turning angle (deg),C,8,3485.18604419047
+Turning angle (deg),C,9,3598.00504169575
+Turning angle (deg),C,10,3599.30871453288
+Turning angle (deg),D,1,1140.9
+Turning angle (deg),D,2,1140.9
+Turning angle (deg),D,3,1140.9
+Turning angle (deg),D,4,1140.9
+Turning angle (deg),D,5,1140.9
+Turning angle (deg),D,6,1140.9
+Turning angle (deg),D,7,1140.9
+Turning angle (deg),D,8,1140.9
+Turning angle (deg),D,9,1140.9
+Turning angle (deg),D,10,1140.9
+Coverage (%),A,1,94.1578825348639
+Coverage (%),A,2,94.7224666111989
+Coverage (%),A,3,93.9918228193004
+Coverage (%),A,4,94.1056548046211
+Coverage (%),A,5,93.8620318895831
+Coverage (%),A,6,92.3660978464205
+Coverage (%),A,7,93.0558746957953
+Coverage (%),A,8,91.1957914301226
+Coverage (%),A,9,94.4893860431167
+Coverage (%),A,10,93.2636582300711
+Coverage (%),B,1,85.2917280123331
+Coverage (%),B,2,87.1715030143228
+Coverage (%),B,3,82.7789189694263
+Coverage (%),B,4,84.391655286266
+Coverage (%),B,5,86.6357469778267
+Coverage (%),B,6,81.0068706584996
+Coverage (%),B,7,81.1321960517606
+Coverage (%),B,8,82.9596208612501
+Coverage (%),B,9,80.5962149254008
+Coverage (%),B,10,89.4385563666483
+Coverage (%),C,1,90.9852053147028
+Coverage (%),C,2,89.9967343935574
+Coverage (%),C,3,91.6626675351032
+Coverage (%),C,4,90.7943889664699
+Coverage (%),C,5,87.9392104119325
+Coverage (%),C,6,93.2438724499485
+Coverage (%),C,7,89.7852158757303
+Coverage (%),C,8,90.5632550294383
+Coverage (%),C,9,91.5470380696892
+Coverage (%),C,10,87.8369919752158
+Coverage (%),D,1,99
+Coverage (%),D,2,99
+Coverage (%),D,3,99
+Coverage (%),D,4,99
+Coverage (%),D,5,99
+Coverage (%),D,6,99
+Coverage (%),D,7,99
+Coverage (%),D,8,99
+Coverage (%),D,9,99
+Coverage (%),D,10,99
+Planning time (s),A,1,687.018779056174
+Planning time (s),A,2,682.759749458491
+Planning time (s),A,3,725.878535238991
+Planning time (s),A,4,766.654810109968
+Planning time (s),A,5,685.859043321496
+Planning time (s),A,6,728.854884597899
+Planning time (s),A,7,715.963558684223
+Planning time (s),A,8,679.392331083325
+Planning time (s),A,9,688.282381839783
+Planning time (s),A,10,711.283983802559
+Planning time (s),B,1,4305.83365143545
+Planning time (s),B,2,4149.34208199239
+Planning time (s),B,3,4205.54246142366
+Planning time (s),B,4,4270.3794544775
+Planning time (s),B,5,4174.46473309539
+Planning time (s),B,6,4334.40031826323
+Planning time (s),B,7,4329.90007220552
+Planning time (s),B,8,4073.59066969641
+Planning time (s),B,9,4196.10206129874
+Planning time (s),B,10,4151.59430208061
+Planning time (s),C,1,230.171701913694
+Planning time (s),C,2,241.702191891687
+Planning time (s),C,3,273.354228317499
+Planning time (s),C,4,260.935325762355
+Planning time (s),C,5,252.483066439581
+Planning time (s),C,6,250.541604584748
+Planning time (s),C,7,287.312306747746
+Planning time (s),C,8,242.994948137097
+Planning time (s),C,9,240.248195683885
+Planning time (s),C,10,260.244126883634
+Planning time (s),D,1,21.1
+Planning time (s),D,2,21.1
+Planning time (s),D,3,21.1
+Planning time (s),D,4,21.1
+Planning time (s),D,5,21.1
+Planning time (s),D,6,21.1
+Planning time (s),D,7,21.1
+Planning time (s),D,8,21.1
+Planning time (s),D,9,21.1
+Planning time (s),D,10,21.1

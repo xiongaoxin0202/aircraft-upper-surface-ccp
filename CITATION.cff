@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data in your research, please cite the study and this repository."
+title: "Structure-Aware Coverage Path Planning for Autonomous Inspection of Aircraft Upper Surfaces"
+abstract: "Code and data for a structure-aware, occlusion-aware and deterministic coverage path planning framework for autonomous UAV inspection of aircraft upper surfaces."
+authors:
+  - family-names: Zhang
+    given-names: Wei
+    affiliation: "Institute of Science and Technology Innovation, Civil Aviation University of China, Tianjin 300300, China"
+  - family-names: Xiong
+    given-names: Aoxin
+    affiliation: "College of Safety Science and Engineering, Civil Aviation University of China, Tianjin 300300, China"
+    email: 2021012200@cauc.edu.cn
+type: software
+version: "1.0"
+year: 2026
+license: MIT
+repository-code: "https://github.com/xiongaoxin0202/aircraft-upper-surface-ccp"
+keywords:
+  - coverage path planning
+  - aircraft inspection
+  - viewpoint optimization
+  - traveling salesman problem
+  - point cloud segmentation
+  - unmanned aerial vehicle

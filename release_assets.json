@@ -1,0 +1,35 @@
+{
+  "tag": "r1",
+  "repository": "xiongaoxin0202/aircraft-upper-surface-ccp",
+  "note": "Large files are attached to the GitHub release instead of the Git tree. Run `python tools/fetch_release_assets.py` from the repository root to restore them to their canonical paths.",
+  "assets": [
+    {
+      "path": "data/B757.ply",
+      "name": "B757.ply",
+      "size": 7208816,
+      "sha256": "fb47d2a5c454a6f83a75d42ed0f409dc2139952fe4b1a2c4e7824208575a16d7",
+      "description": "B757 generalization model used in manuscript Table 11"
+    },
+    {
+      "path": "data/A340_segmented/zong.ply",
+      "name": "A340_segmented_zong.ply",
+      "size": 3843268,
+      "sha256": "8a37b7db079b0c19a5f78a518359e60b0af0bf1c3b3078c703c108b4fee6b257",
+      "description": "Auxiliary combined segmented cloud for the A340 model"
+    },
+    {
+      "path": "data/B757_segmented/zong.ply",
+      "name": "B757_segmented_zong.ply",
+      "size": 4946293,
+      "sha256": "5da0a26b55647714539c410bf186b50233f374a283747bb6117161decd8f6639",
+      "description": "Auxiliary combined segmented cloud for the B757 model"
+    },
+    {
+      "path": "supplementary/ROB-2026-0584_Supplementary_S1_Revision_Experiments.zip",
+      "name": "ROB-2026-0584_Supplementary_S1_Revision_Experiments.zip",
+      "size": 12281771,
+      "sha256": "79eea45f49a71bf5a2e9721d1861f123a0aaa1386af203288351ea238ec12de5",
+      "description": "Revision experiment archive"
+    }
+  ]
+}

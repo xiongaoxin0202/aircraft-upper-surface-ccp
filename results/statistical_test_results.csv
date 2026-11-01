@@ -1,0 +1,16 @@
+metric,baseline,t_stat,df,p_value,significance
+Viewpoint count,A (SCP+MMAS),129.7,9,4.44089209850063e-16,***
+Viewpoint count,B (MCTS),41.7,9,1.29583010988199e-11,***
+Viewpoint count,C (ASSCPP),45.9,9,5.58442181386454e-12,***
+Path length (m),A (SCP+MMAS),84.1,9,2.39808173319034e-14,***
+Path length (m),B (MCTS),53.2,9,1.47815093498593e-12,***
+Path length (m),C (ASSCPP),39.3,9,2.21151985613233e-11,***
+Turning angle (deg),A (SCP+MMAS),211.4,9,0,***
+Turning angle (deg),B (MCTS),94.8,9,8.21565038222616e-15,***
+Turning angle (deg),C (ASSCPP),223.4,9,0,***
+Coverage (%),A (SCP+MMAS),-13.2,9,3.45896296050086e-07,***
+Coverage (%),B (MCTS),-15.6,9,8.0858916007287e-08,***
+Coverage (%),C (ASSCPP),-15.6,9,7.82223512629798e-08,***
+Planning time (s),A (SCP+MMAS),49.3,9,2.91633384108536e-12,***
+Planning time (s),B (MCTS),101.1,9,4.66293670342566e-15,***
+Planning time (s),C (ASSCPP),41.6,9,1.32223121340758e-11,***

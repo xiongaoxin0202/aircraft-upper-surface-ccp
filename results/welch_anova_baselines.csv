@@ -1,0 +1,6 @@
+metric,F,df1,df2,p_value
+Viewpoint count,135,2,14.2,5.70200997529469e-10
+Path length (m),57.2,2,17.3,2.44376233693444e-08
+Turning angle (deg),20.1,2,16.7,3.58759146389387e-05
+Coverage (%),49.2,2,16.3,1.26297225899741e-07
+Planning time (s),4559.1,2,13.8,0
