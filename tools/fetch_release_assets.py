@@ -17,11 +17,13 @@ import json
 import os
 import sys
 import tempfile
+import time
 import urllib.parse
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST = os.path.join(ROOT, "release_assets.json")
+USER_AGENT = "aircraft-upper-surface-ccp/1.0 (+https://github.com/xiongaoxin0202/aircraft-upper-surface-ccp)"
 
 
 def sha256(path):
@@ -37,7 +39,8 @@ def download(url, target, expected_size):
     fd, tmp = tempfile.mkstemp(prefix=".download_", dir=os.path.dirname(target))
     os.close(fd)
     try:
-        with urllib.request.urlopen(url, timeout=120) as response, open(tmp, "wb") as out:
+        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(request, timeout=600) as response, open(tmp, "wb") as out:
             total = int(response.headers.get("Content-Length") or expected_size or 0)
             done = 0
             last_pct = -1
@@ -83,10 +86,19 @@ def main():
             f"{urllib.parse.quote(name)}"
         )
         print(f"[get]  {rel}  <-  {url}", flush=True)
-        try:
-            download(url, target, asset["size"])
-        except Exception as exc:
-            print(f"[fail] {rel}: {exc}", flush=True)
+        last_error = None
+        for attempt in range(1, 4):
+            try:
+                download(url, target, asset["size"])
+                last_error = None
+                break
+            except Exception as exc:
+                last_error = exc
+                print(f"       attempt {attempt}/3 failed: {exc}", flush=True)
+                if attempt < 3:
+                    time.sleep(5)
+        if last_error is not None:
+            print(f"[fail] {rel}: {last_error}", flush=True)
             failures += 1
             continue
         size = os.path.getsize(target)
